@@ -1,5 +1,5 @@
 # Dicoding Collection Dashboard ✨
-## Run steamlit app
+## Run streamlit app
 ```
 streamlit run dashboard.py
 ```
